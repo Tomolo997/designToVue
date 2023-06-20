@@ -2,4 +2,18 @@
     --main-green-color: #3CDC82;
     --main-black-color: #0c0c0d;
     --container-width: 1440px;
+    --text-on-background-color: hsla(211, 29%, 70%, 1);
+    --text-on-background-color-whiter: hsla(211, 29%, 90%, 1);
+    --font-xs: 12px;
+    --font-sm: 14px;
+    --font-md: 16px;
+    --font-lg: 18px;
+    --font-xl: 20px;
+    --font-2xl: 24px;
+    --font-3xl: 32px;
+    --font-4xl: 48px;
+    --font-5xl: 64px;
+    --font-6xl: 80px;
+    --background-color-main: #35495E;
+
 }
